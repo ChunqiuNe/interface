@@ -4,10 +4,8 @@ import com.cq.vueinterface.entity.UserInfo;
 import com.cq.vueinterface.mapper.UserInfoMapper;
 import com.cq.vueinterface.model.ResultModel;
 import com.cq.vueinterface.util.ResultTools;
-import org.apache.ibatis.annotations.Mapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.HashMap;
